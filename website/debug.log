@@ -1,0 +1,20 @@
+[1217/043128.135:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\05bd7284-82e8-4980-99d7-7225914ab2b8: The system cannot find the path specified. (0x3)
+[1217/043128.150:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0b0bc59b-07ed-4ac0-a583-410060b83ccc: The system cannot find the path specified. (0x3)
+[1217/043128.166:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1a3f4aaa-3e21-44ee-9333-47a940a9ec65: The system cannot find the path specified. (0x3)
+[1217/043128.166:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4fa14f7d-723e-4319-9933-d06c47ff36c3: The system cannot find the path specified. (0x3)
+[1217/043128.166:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\64113ccb-ca6d-450b-bb68-d23f55156ab8: The system cannot find the path specified. (0x3)
+[1217/043128.166:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\7a52d05e-ae87-410c-a736-261bb6af47c7: The system cannot find the path specified. (0x3)
+[1217/043128.166:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9595ab6-4d75-4dd8-9397-22cf43921f84: The system cannot find the path specified. (0x3)
+[1217/043128.182:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d7d097fb-3768-4560-8d8b-3c35f64308b5: The system cannot find the path specified. (0x3)
+[1217/043128.182:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/043536.142:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5379e025-7a19-49bf-94f9-f3b3ee5e96c9.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1217/044551.540:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/050122.638:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/212803.081:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/214606.987:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1218/103946.856:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1218/180441.301:ERROR:process_info.cc(359)] UncheckedAllocate
+[1218/210742.194:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/033133.809:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/014226.319:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/023202.193:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

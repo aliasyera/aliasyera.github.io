@@ -1,0 +1,91 @@
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #457a8c;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 560px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+*{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#f5e2dc ;
+padding:0 50px;
+}
+.logo{
+width:30%;
+float:left;
+color:#b76e79;
+font-weight:bold;
+text-transform:uppercase;
+line-height:60px;
+font-size:35px;
+font-family:Viner Hand ITC;
+}
+nav{
+width:68%;
+float:right;
+}
+nav ul{
+list-style:none;
+float:right;
+}
+nav ul li{
+display:inline-block;
+}
+nav ul li a{
+text-decoration:none;
+color:#b76e79;
+font-family:san-serif;
+font-weight:bold;
+margin:5px;
+line-height:60px;
+text-transform:uppercase;
+}
+
+.content{
+padding:5%;
+}
+.content p{
+font-size:20px;
+line-height:20;
+font-family:san serif;
+margin-bottom:5px;
